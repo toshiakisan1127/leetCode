@@ -2,7 +2,16 @@
 
 leetcode で提出したものを記録しておくための repository
 
+## LeetCode
+
+VScodeのLeetCodeの拡張機能を使っている。
+![スクリーンショット 2022-04-10 4 38 51](https://user-images.githubusercontent.com/48203235/162589230-85f6a8c6-578c-4d8a-b362-180677d0567a.png)
+
+containerの中で cmd + shift + p でコマンドパレットを開きleetcodeで検索。解答をおくpathを指定する。
+![スクリーンショット 2022-04-10 4 40 30](https://user-images.githubusercontent.com/48203235/162589269-c17b951b-c90a-4383-9d1f-743104a9fd7d.png)
+
 ## Remote Container
+
 ![スクリーンショット 2022-04-10 4 38 11](https://user-images.githubusercontent.com/48203235/162589199-ae786dff-b12b-4e37-8d10-a4a8714a53a4.png)
 
 VS code の拡張機能の remote container が便利なので使っている。

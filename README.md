@@ -3,6 +3,7 @@
 leetcode で提出したものを記録しておくための repository
 
 ## Remote Container
+![スクリーンショット 2022-04-10 4 38 11](https://user-images.githubusercontent.com/48203235/162589199-ae786dff-b12b-4e37-8d10-a4a8714a53a4.png)
 
 VS code の拡張機能の remote container が便利なので使っている。
 

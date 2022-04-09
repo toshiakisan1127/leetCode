@@ -10,7 +10,12 @@ VScodeのLeetCodeの拡張機能を使っている。
 containerの中で cmd + shift + p でコマンドパレットを開きleetcodeで検索。解答をおくpathを指定する。
 ![スクリーンショット 2022-04-10 4 40 30](https://user-images.githubusercontent.com/48203235/162589269-c17b951b-c90a-4383-9d1f-743104a9fd7d.png)
 
+
+問題を見る際は次のようにする。解く際はcode nowを押せばコーティングからサブミットまでできる（詳細は拡張機能の説明へ）
+![スクリーンショット 2022-04-10 4 42 19](https://user-images.githubusercontent.com/48203235/162589352-339cec04-6ac8-425f-8997-b379e06a5739.png)
+
 ## Remote Container
+
 
 ![スクリーンショット 2022-04-10 4 38 11](https://user-images.githubusercontent.com/48203235/162589199-ae786dff-b12b-4e37-8d10-a4a8714a53a4.png)
 

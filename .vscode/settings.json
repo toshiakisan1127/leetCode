@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        ".",
+        "./1_two_sum"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
